@@ -3,6 +3,9 @@
 
 An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 
+Referencia: https://github.com/brunogarcia/Front-end-Wiki/wiki
+
+Jorge Callalle
 
 ##Coding Tools
 
