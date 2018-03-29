@@ -262,7 +262,7 @@ Jorge Callalle
 
 ######Tests Runners
 
-* [mocha](http://visionmedia.github.com/mocha/)
+* [mocha](http://mochajs.org/)
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
 * [jest](http://facebook.github.io/jest/)
