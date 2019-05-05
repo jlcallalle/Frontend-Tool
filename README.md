@@ -264,7 +264,7 @@ Jorge Callalle
 
 * [mocha](http://visionmedia.github.com/mocha/)
 * [qunit](http://qunitjs.com/)
-* [jasmine](http://pivotal.github.com/jasmine/)
+* [jasmine](https://jasmine.github.io/)
 * [jest](http://facebook.github.io/jest/)
 * [jstest](http://jstest.jcoglan.com/)
 
